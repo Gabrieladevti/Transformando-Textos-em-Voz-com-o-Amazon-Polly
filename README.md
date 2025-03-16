@@ -1,5 +1,4 @@
-# dio-live-polly-09092021
-Repositório de código para o live coding da DIO sobre o Amazon Polly
+# Transformando Textos em Voz com o Amazon Polly
 
 ## Configurando a arquitetura do projeto
 
